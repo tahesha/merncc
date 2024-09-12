@@ -12,7 +12,7 @@ function Footer() {
             bottom={0}
             width="full"
         >
-            <Text>&copy; {new Date().getFullYear()} Website Created By Tahesha Orji. All rights reserved.</Text>
+            <Text>&copy; {new Date().getFullYear()} Website Created 2024 By Tahesha Orji. All rights reserved.</Text>
         </Box>
     );
 }
